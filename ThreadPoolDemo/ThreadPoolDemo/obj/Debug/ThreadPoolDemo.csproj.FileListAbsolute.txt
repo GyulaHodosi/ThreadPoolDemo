@@ -1,0 +1,6 @@
+D:\Codecool\Advanced\SI-3\Threading\ThreadPoolDemo\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe.config
+D:\Codecool\Advanced\SI-3\Threading\ThreadPoolDemo\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe
+D:\Codecool\Advanced\SI-3\Threading\ThreadPoolDemo\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.pdb
+D:\Codecool\Advanced\SI-3\Threading\ThreadPoolDemo\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.csprojAssemblyReference.cache
+D:\Codecool\Advanced\SI-3\Threading\ThreadPoolDemo\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.exe
+D:\Codecool\Advanced\SI-3\Threading\ThreadPoolDemo\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.pdb
